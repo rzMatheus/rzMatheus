@@ -1,4 +1,10 @@
-### Hi there 👋
+A dev trying to learn more everyday and improve my knowledge database.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzMatheus&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **rzMatheus/rzMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
