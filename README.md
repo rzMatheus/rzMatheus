@@ -1,6 +1,6 @@
 A dev trying to learn more everyday and improve my knowledge database.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32" />
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzMatheus&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
