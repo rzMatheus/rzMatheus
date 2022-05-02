@@ -1,6 +1,11 @@
 A dev trying to learn more everyday and improve my knowledge database.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="32" height="32" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rzMatheus&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
